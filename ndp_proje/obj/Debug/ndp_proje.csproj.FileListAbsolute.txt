@@ -1,0 +1,98 @@
+C:\Users\Programlama\Desktop\ndp_proje\ndp_proje\bin\Debug\ndp_proje.exe.config
+C:\Users\Programlama\Desktop\ndp_proje\ndp_proje\bin\Debug\ndp_proje.exe
+C:\Users\Programlama\Desktop\ndp_proje\ndp_proje\bin\Debug\ndp_proje.pdb
+C:\Users\Programlama\Desktop\ndp_proje\ndp_proje\obj\Debug\ndp_proje.csprojResolveAssemblyReference.cache
+C:\Users\Programlama\Desktop\ndp_proje\ndp_proje\obj\Debug\ndp_proje.Properties.Resources.resources
+C:\Users\Programlama\Desktop\ndp_proje\ndp_proje\obj\Debug\ndp_proje.csproj.GenerateResource.Cache
+C:\Users\Programlama\Desktop\ndp_proje\ndp_proje\obj\Debug\ndp_proje.exe
+C:\Users\Programlama\Desktop\ndp_proje\ndp_proje\obj\Debug\ndp_proje.pdb
+C:\Users\Programlama\Desktop\ndp_proje - Copy\ndp_proje\bin\Debug\ndp_proje.exe.config
+C:\Users\Programlama\Desktop\ndp_proje - Copy\ndp_proje\obj\Debug\ndp_proje.exe
+C:\Users\Programlama\Desktop\ndp_proje - Copy\ndp_proje\obj\Debug\ndp_proje.pdb
+C:\Users\Programlama\Desktop\ndp_proje - Copy\ndp_proje\bin\Debug\ndp_proje.exe
+C:\Users\Programlama\Desktop\ndp_proje - Copy\ndp_proje\bin\Debug\ndp_proje.pdb
+C:\Users\Programlama\Desktop\ndp_proje - Copy\ndp_proje\obj\Debug\ndp_proje.csprojResolveAssemblyReference.cache
+C:\Users\Programlama\Desktop\ndp_proje - Copy\ndp_proje\obj\Debug\ndp_proje.Form1.resources
+C:\Users\Programlama\Desktop\ndp_proje - Copy\ndp_proje\obj\Debug\ndp_proje.Properties.Resources.resources
+C:\Users\Programlama\Desktop\ndp_proje - Copy\ndp_proje\obj\Debug\ndp_proje.csproj.GenerateResource.Cache
+C:\Users\Programlama\Desktop\ndp_proje - yeni deneme\ndp_proje\bin\Debug\ndp_proje.exe.config
+C:\Users\Programlama\Desktop\ndp_proje - yeni deneme\ndp_proje\obj\Debug\ndp_proje.exe
+C:\Users\Programlama\Desktop\ndp_proje - yeni deneme\ndp_proje\obj\Debug\ndp_proje.pdb
+C:\Users\Programlama\Desktop\ndp_proje - yeni deneme\ndp_proje\bin\Debug\ndp_proje.exe
+C:\Users\Programlama\Desktop\ndp_proje - yeni deneme\ndp_proje\bin\Debug\ndp_proje.pdb
+C:\Users\Programlama\Desktop\ndp_proje - yeni deneme\ndp_proje\obj\Debug\ndp_proje.csprojResolveAssemblyReference.cache
+C:\Users\Programlama\Desktop\ndp_proje - yeni deneme\ndp_proje\obj\Debug\ndp_proje.Form1.resources
+C:\Users\Programlama\Desktop\ndp_proje - yeni deneme\ndp_proje\obj\Debug\ndp_proje.Properties.Resources.resources
+C:\Users\Programlama\Desktop\ndp_proje - yeni deneme\ndp_proje\obj\Debug\ndp_proje.csproj.GenerateResource.Cache
+C:\Users\Programlama\Desktop\ndp_proje - devam\ndp_proje\bin\Debug\ndp_proje.exe.config
+C:\Users\Programlama\Desktop\ndp_proje - devam\ndp_proje\obj\Debug\ndp_proje.exe
+C:\Users\Programlama\Desktop\ndp_proje - devam\ndp_proje\obj\Debug\ndp_proje.pdb
+C:\Users\Programlama\Desktop\ndp_proje - devam\ndp_proje\bin\Debug\ndp_proje.exe
+C:\Users\Programlama\Desktop\ndp_proje - devam\ndp_proje\bin\Debug\ndp_proje.pdb
+C:\Users\Programlama\Desktop\ndp_proje - devam\ndp_proje\obj\Debug\ndp_proje.csprojResolveAssemblyReference.cache
+C:\Users\Programlama\Desktop\ndp_proje - devam\ndp_proje\obj\Debug\ndp_proje.Form1.resources
+C:\Users\Programlama\Desktop\ndp_proje - devam\ndp_proje\obj\Debug\ndp_proje.Properties.Resources.resources
+C:\Users\Programlama\Desktop\ndp_proje - devam\ndp_proje\obj\Debug\ndp_proje.csproj.GenerateResource.Cache
+C:\Users\Programlama\Desktop\ndp_proje - devam\ndp_proje\obj\Debug\ndp_proje.Form2.resources
+C:\Users\Programlama\Desktop\ndp_proje - devam\ndp_proje\obj\Debug\ndp_proje.Form3.resources
+C:\Users\Programlama\Desktop\ndp_proje - devam - Copy - Copy\ndp_proje\bin\Debug\ndp_proje.exe.config
+C:\Users\Programlama\Desktop\ndp_proje - devam - Copy - Copy\ndp_proje\obj\Debug\ndp_proje.exe
+C:\Users\Programlama\Desktop\ndp_proje - devam - Copy - Copy\ndp_proje\obj\Debug\ndp_proje.pdb
+C:\Users\Programlama\Desktop\ndp_proje - devam - Copy - Copy\ndp_proje\bin\Debug\ndp_proje.exe
+C:\Users\Programlama\Desktop\ndp_proje - devam - Copy - Copy\ndp_proje\bin\Debug\ndp_proje.pdb
+C:\Users\Programlama\Desktop\ndp_proje - devam - Copy - Copy\ndp_proje\obj\Debug\ndp_proje.csprojResolveAssemblyReference.cache
+C:\Users\Programlama\Desktop\ndp_proje - devam - Copy - Copy\ndp_proje\obj\Debug\ndp_proje.Form1.resources
+C:\Users\Programlama\Desktop\ndp_proje - devam - Copy - Copy\ndp_proje\obj\Debug\ndp_proje.Form2.resources
+C:\Users\Programlama\Desktop\ndp_proje - devam - Copy - Copy\ndp_proje\obj\Debug\ndp_proje.Form3.resources
+C:\Users\Programlama\Desktop\ndp_proje - devam - Copy - Copy\ndp_proje\obj\Debug\ndp_proje.Properties.Resources.resources
+C:\Users\Programlama\Desktop\ndp_proje - devam - Copy - Copy\ndp_proje\obj\Debug\ndp_proje.csproj.GenerateResource.Cache
+C:\Users\Programlama\Desktop\ndp_proje - veritabanına dönüş\ndp_proje\bin\Debug\ndp_proje.exe.config
+C:\Users\Programlama\Desktop\ndp_proje - veritabanına dönüş\ndp_proje\obj\Debug\ndp_proje.exe
+C:\Users\Programlama\Desktop\ndp_proje - veritabanına dönüş\ndp_proje\obj\Debug\ndp_proje.pdb
+C:\Users\Programlama\Desktop\ndp_proje - veritabanına dönüş\ndp_proje\bin\Debug\ndp_proje.exe
+C:\Users\Programlama\Desktop\ndp_proje - veritabanına dönüş\ndp_proje\bin\Debug\ndp_proje.pdb
+C:\Users\Programlama\Desktop\ndp_proje - veritabanına dönüş\ndp_proje\obj\Debug\ndp_proje.csprojResolveAssemblyReference.cache
+C:\Users\Programlama\Desktop\ndp_proje - veritabanına dönüş\ndp_proje\obj\Debug\ndp_proje.Form1.resources
+C:\Users\Programlama\Desktop\ndp_proje - veritabanına dönüş\ndp_proje\obj\Debug\ndp_proje.Form2.resources
+C:\Users\Programlama\Desktop\ndp_proje - veritabanına dönüş\ndp_proje\obj\Debug\ndp_proje.Form3.resources
+C:\Users\Programlama\Desktop\ndp_proje - veritabanına dönüş\ndp_proje\obj\Debug\ndp_proje.Properties.Resources.resources
+C:\Users\Programlama\Desktop\ndp_proje - veritabanına dönüş\ndp_proje\obj\Debug\ndp_proje.csproj.GenerateResource.Cache
+C:\Users\Programlama\Desktop\ndp_proje - veritabanına dönüşş - Copy\ndp_proje\bin\Debug\ndp_proje.exe.config
+C:\Users\Programlama\Desktop\ndp_proje - veritabanına dönüşş - Copy\ndp_proje\bin\Debug\ndp_proje.exe
+C:\Users\Programlama\Desktop\ndp_proje - veritabanına dönüşş - Copy\ndp_proje\bin\Debug\ndp_proje.pdb
+C:\Users\Programlama\Desktop\ndp_proje - veritabanına dönüşş - Copy\ndp_proje\obj\Debug\ndp_proje.csprojResolveAssemblyReference.cache
+C:\Users\Programlama\Desktop\ndp_proje - veritabanına dönüşş - Copy\ndp_proje\obj\Debug\ndp_proje.Form1.resources
+C:\Users\Programlama\Desktop\ndp_proje - veritabanına dönüşş - Copy\ndp_proje\obj\Debug\ndp_proje.Form2.resources
+C:\Users\Programlama\Desktop\ndp_proje - veritabanına dönüşş - Copy\ndp_proje\obj\Debug\ndp_proje.Form3.resources
+C:\Users\Programlama\Desktop\ndp_proje - veritabanına dönüşş - Copy\ndp_proje\obj\Debug\ndp_proje.Properties.Resources.resources
+C:\Users\Programlama\Desktop\ndp_proje - veritabanına dönüşş - Copy\ndp_proje\obj\Debug\ndp_proje.csproj.GenerateResource.Cache
+C:\Users\Programlama\Desktop\ndp_proje - veritabanına dönüşş - Copy\ndp_proje\obj\Debug\ndp_proje.exe
+C:\Users\Programlama\Desktop\ndp_proje - veritabanına dönüşş - Copy\ndp_proje\obj\Debug\ndp_proje.pdb
+C:\Users\Programlama\Desktop\ndp_proje\ndp_proje\obj\Debug\ndp_proje.Form1Oyun.resources
+C:\Users\Programlama\Desktop\ndp_proje\ndp_proje\obj\Debug\ndp_proje.Form2YuksekSkor.resources
+C:\Users\Programlama\Desktop\ndp_proje\ndp_proje\obj\Debug\ndp_proje.Form3Skorlar.resources
+C:\Users\Programlama\Desktop\b140910051_ndp_proje\ndp_proje\bin\Debug\ndp_proje.exe.config
+C:\Users\Programlama\Desktop\b140910051_ndp_proje\ndp_proje\obj\Debug\ndp_proje.exe
+C:\Users\Programlama\Desktop\b140910051_ndp_proje\ndp_proje\obj\Debug\ndp_proje.pdb
+C:\Users\Programlama\Desktop\b140910051_ndp_proje\ndp_proje\bin\Debug\ndp_proje.exe
+C:\Users\Programlama\Desktop\b140910051_ndp_proje\ndp_proje\bin\Debug\ndp_proje.pdb
+C:\Users\Programlama\Desktop\b140910051_ndp_proje\ndp_proje\obj\Debug\ndp_proje.csprojResolveAssemblyReference.cache
+C:\Users\Programlama\Desktop\b140910051_ndp_proje\ndp_proje\obj\Debug\ndp_proje.Form1Oyun.resources
+C:\Users\Programlama\Desktop\b140910051_ndp_proje\ndp_proje\obj\Debug\ndp_proje.Form2YuksekSkor.resources
+C:\Users\Programlama\Desktop\b140910051_ndp_proje\ndp_proje\obj\Debug\ndp_proje.Form3Skorlar.resources
+C:\Users\Programlama\Desktop\b140910051_ndp_proje\ndp_proje\obj\Debug\ndp_proje.Properties.Resources.resources
+C:\Users\Programlama\Desktop\b140910051_ndp_proje\ndp_proje\obj\Debug\ndp_proje.csproj.GenerateResource.Cache
+C:\Users\Programlama\Desktop\b140910051\b140910051_ndp_proje\ndp_proje\bin\Debug\ndp_proje.exe.config
+C:\Users\Programlama\Desktop\b140910051\b140910051_ndp_proje\ndp_proje\obj\Debug\ndp_proje.exe
+C:\Users\Programlama\Desktop\b140910051\b140910051_ndp_proje\ndp_proje\obj\Debug\ndp_proje.pdb
+C:\Users\Programlama\Desktop\C# Döküman\oyun_proje\ndp_proje\bin\Debug\ndp_proje.exe.config
+C:\Users\Programlama\Desktop\C# Döküman\oyun_proje\ndp_proje\obj\Debug\ndp_proje.exe
+C:\Users\Programlama\Desktop\C# Döküman\oyun_proje\ndp_proje\obj\Debug\ndp_proje.pdb
+C:\Users\Programlama\Desktop\C# Döküman\oyun_proje\ndp_proje\bin\Debug\ndp_proje.exe
+C:\Users\Programlama\Desktop\C# Döküman\oyun_proje\ndp_proje\bin\Debug\ndp_proje.pdb
+C:\Users\Programlama\Desktop\C# Döküman\oyun_proje\ndp_proje\obj\Debug\ndp_proje.csprojResolveAssemblyReference.cache
+C:\Users\Programlama\Desktop\C# Döküman\oyun_proje\ndp_proje\obj\Debug\ndp_proje.Form1Oyun.resources
+C:\Users\Programlama\Desktop\C# Döküman\oyun_proje\ndp_proje\obj\Debug\ndp_proje.Form2YuksekSkor.resources
+C:\Users\Programlama\Desktop\C# Döküman\oyun_proje\ndp_proje\obj\Debug\ndp_proje.Form3Skorlar.resources
+C:\Users\Programlama\Desktop\C# Döküman\oyun_proje\ndp_proje\obj\Debug\ndp_proje.Properties.Resources.resources
+C:\Users\Programlama\Desktop\C# Döküman\oyun_proje\ndp_proje\obj\Debug\ndp_proje.csproj.GenerateResource.Cache

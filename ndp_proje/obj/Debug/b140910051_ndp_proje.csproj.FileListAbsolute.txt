@@ -1,0 +1,11 @@
+C:\Users\Programlama\Desktop\ndp_proje\ndp_proje\bin\Debug\ndp_proje.exe.config
+C:\Users\Programlama\Desktop\ndp_proje\ndp_proje\bin\Debug\ndp_proje.exe
+C:\Users\Programlama\Desktop\ndp_proje\ndp_proje\bin\Debug\ndp_proje.pdb
+C:\Users\Programlama\Desktop\ndp_proje\ndp_proje\obj\Debug\b140910051_ndp_proje.csprojResolveAssemblyReference.cache
+C:\Users\Programlama\Desktop\ndp_proje\ndp_proje\obj\Debug\ndp_proje.Form1Oyun.resources
+C:\Users\Programlama\Desktop\ndp_proje\ndp_proje\obj\Debug\ndp_proje.Form2YuksekSkor.resources
+C:\Users\Programlama\Desktop\ndp_proje\ndp_proje\obj\Debug\ndp_proje.Form3Skorlar.resources
+C:\Users\Programlama\Desktop\ndp_proje\ndp_proje\obj\Debug\ndp_proje.Properties.Resources.resources
+C:\Users\Programlama\Desktop\ndp_proje\ndp_proje\obj\Debug\b140910051_ndp_proje.csproj.GenerateResource.Cache
+C:\Users\Programlama\Desktop\ndp_proje\ndp_proje\obj\Debug\ndp_proje.exe
+C:\Users\Programlama\Desktop\ndp_proje\ndp_proje\obj\Debug\ndp_proje.pdb
